@@ -1,0 +1,11 @@
+{
+  "name": "floex",
+  "version": "1.0.0",
+  "description": "Stay in the flow logging your startup milestones and get rewards",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZGFuZHk100",
+  "license": "ISC"
+}
